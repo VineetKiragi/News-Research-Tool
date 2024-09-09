@@ -1,9 +1,9 @@
 
-# RockyBot: News Research Tool 
+# News Research Tool 
 
 news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights derived from the infomatoin in the link pertaining the stock market and financial domain.
 
-![](rockybot.jpg)
+![](screenshot.jpg)
 
 ## Features
 
